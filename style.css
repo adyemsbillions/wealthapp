@@ -74,8 +74,8 @@ button {
   }
   
   button:hover {
-    background: linear-gradient(135deg, #89f7fe, #66a6ff); /* بديل للتدرج */
-    color: #fff; /* خلي النص يفضل أبيض */
+    background: linear-gradient(135deg, #89f7fe, #66a6ff); 
+    color: #fff; 
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   }
   
